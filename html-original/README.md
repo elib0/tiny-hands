@@ -1,6 +1,6 @@
 # 📁 Archivos HTML Originales
 
-Esta carpeta contiene todos los archivos HTML del template original de **Knirpse Kindergarten**.
+Esta carpeta contiene todos los archivos HTML del template original de **Tiny Hands Home Daycare Kindergarten**.
 
 ## 📋 Contenido
 

@@ -16,7 +16,7 @@ const Footer = () => {
                 <div className="vs-widget-about">
                   <div className="about-logo">
                     <Link to="/">
-                      <img src="/assets/img/logo-white.png" alt="Knirpse" />
+                      <img src="/assets/img/logo-white.png" alt="Tiny Hands Home Daycare" />
                     </Link>
                   </div>
                   <p className="about-text">{t('footer.about')}</p>
@@ -68,7 +68,7 @@ const Footer = () => {
       <div className="footer-copyright">
         <div className="container">
           <p className="copyright">
-            &copy; {t('footer.copyright')} <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a>.
+            &copy; {t('footer.copyright')}.
           </p>
         </div>
       </div>

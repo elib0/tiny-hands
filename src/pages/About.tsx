@@ -20,7 +20,7 @@ const About = () => {
     <MainLayout>
       <Breadcrumb
         title={t('about.pageTitle')}
-        background="/assets/img/bg/breadcrumb-bg-1.jpg"
+        background="/assets/img/bg/contact.png"
         items={breadcrumbItems}
       />
 
@@ -62,7 +62,7 @@ const About = () => {
             </div>
           </div>
 
-          <div className="row mt-60">
+          <div className="row mt-60 p-20">
             <div className="col-12 wow fadeInUp" data-wow-delay="0.1s">
               <div className="about-extra-content bg-smoke p-40 rounded">
                 <h3 className="h3 mb-30">{t('about.whyChooseTitle')}</h3>

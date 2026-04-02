@@ -1,4 +1,4 @@
-# 🧭 Guía de Navegación - Knirpse Kindergarten
+# 🧭 Guía de Navegación - Tiny Hands Home Daycare Kindergarten
 
 ## ✅ Mejoras de Navegación Implementadas
 

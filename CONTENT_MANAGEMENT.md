@@ -11,7 +11,7 @@ Todos los datos del sitio web están centralizados en `/src/data/siteData.json`.
 ```json
 "contact": {
   "phone": "+256 (3156) 2156 236",
-  "email": "info@Knirpseteam.com",
+  "email": "info@Tiny Hands Home Daycareteam.com",
   "address": "256 Lonely Street Ave, Brooklyn CA, United State",
   "schedule": "Mon - Fri: 9.00am to 5.00pm"
 }
@@ -50,7 +50,7 @@ Todos los datos del sitio web están centralizados en `/src/data/siteData.json`.
     {
       "id": 1,
       "background": "/assets/img/bg/hero1-1.jpg",
-      "tag1": "Welcome To Knirpse",
+      "tag1": "Welcome To Tiny Hands Home Daycare",
       "tag2": "Best Kindergarten",
       "title": "A lifetime of <span class=\"focus text-theme\">ChildCare</span> start with us!",
       "buttonText": "Book a visit",
