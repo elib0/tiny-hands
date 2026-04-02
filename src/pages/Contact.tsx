@@ -22,7 +22,7 @@ const Contact = () => {
     <MainLayout>
       <Breadcrumb
         title={t('contact.title')}
-        background="/assets/img/bg/breadcrumb-bg-1.jpg"
+        background="/assets/img/bg/contact.png"
         items={breadcrumbItems}
       />
 
