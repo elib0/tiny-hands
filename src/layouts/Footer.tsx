@@ -16,7 +16,7 @@ const Footer = () => {
                 <div className="vs-widget-about">
                   <div className="about-logo">
                     <Link to="/">
-                      <img src="/assets/img/logo-white.svg" alt="Knirpse" />
+                      <img src="/assets/img/logo-white.png" alt="Knirpse" />
                     </Link>
                   </div>
                   <p className="about-text">{t('footer.about')}</p>
