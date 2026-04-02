@@ -24,11 +24,11 @@ const Header = () => {
             <div className="col-auto">
               <div className="header-social">
                 <ul>
-                  <li><a href={social.facebook}><i className="fab fa-facebook-f"></i></a></li>
-                  <li><a href={social.twitter}><i className="fab fa-twitter"></i></a></li>
-                  <li><a href={social.instagram}><i className="fab fa-instagram"></i></a></li>
-                  <li><a href={social.linkedin}><i className="fab fa-linkedin-in"></i></a></li>
-                  <li><a href={social.skype}><i className="fab fa-skype"></i></a></li>
+                  {social.facebook && <li><a href={social.facebook}><i className="fab fa-facebook-f"></i></a></li>}
+                  {social.twitter && <li><a href={social.twitter}><i className="fab fa-twitter"></i></a></li>}
+                  {social.instagram && <li><a href={social.instagram}><i className="fab fa-instagram"></i></a></li>}
+                  {social.linkedin && <li><a href={social.linkedin}><i className="fab fa-linkedin-in"></i></a></li>}
+                  {social.skype && <li><a href={social.skype}><i className="fab fa-skype"></i></a></li>}
                   <li><LanguageSwitcher /></li>
                 </ul>
               </div>

@@ -4,7 +4,7 @@ import siteData from '../data/siteData.json'
 
 const Footer = () => {
   const { t } = useTranslation()
-  const { contact, social } = siteData
+  const { contact, social, contactPage } = siteData
 
   return (
     <footer className="footer-wrapper footer-layout3" data-bg-src="/assets/img/bg/footer-4.png">
@@ -21,10 +21,10 @@ const Footer = () => {
                   </div>
                   <p className="about-text">{t('footer.about')}</p>
                   <div className="multi-social">
-                    <a href={social.facebook}><i className="fab fa-facebook-f"></i></a>
-                    <a href={social.twitter}><i className="fab fa-twitter"></i></a>
-                    <a href={social.pinterest}><i className="fab fa-pinterest-p"></i></a>
-                    <a href={social.linkedin}><i className="fab fa-linkedin-in"></i></a>
+                    {social.facebook && <a href={social.facebook}><i className="fab fa-facebook-f"></i></a>}
+                    {social.twitter && <a href={social.twitter}><i className="fab fa-twitter"></i></a>}
+                    {social.pinterest && <a href={social.pinterest}><i className="fab fa-pinterest-p"></i></a>}
+                    {social.linkedin && <a href={social.linkedin}><i className="fab fa-linkedin-in"></i></a>}
                   </div>
                 </div>
               </div>
@@ -48,7 +48,8 @@ const Footer = () => {
                 <h3 className="widget_title">{t('footer.contactUs')}</h3>
                 <div className="vs-widget-contact">
                   <p className="footer-info">
-                    <i className="fas fa-map-marker-alt"></i>{contact.address}
+                    <a href={contactPage.mapUrl} target="_blank" rel="noopener noreferrer">{contact.address}</a>
+                    <i className="fas fa-map-marker-alt"></i>
                   </p>
                   <p className="footer-info">
                     <i className="fas fa-envelope"></i>
