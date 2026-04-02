@@ -9,14 +9,10 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  publicDir: 'assets',
+  publicDir: 'public',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
-    rollupOptions: {
-      output: {
-        assetFileNames: 'assets/[name].[ext]',
-      },
-    },
+    copyPublicDir: true,
   },
 })

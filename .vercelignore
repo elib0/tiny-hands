@@ -1,0 +1,8 @@
+node_modules
+.git
+html-original
+*.md
+!README.md
+prepros.config
+.env.local
+.env.example
