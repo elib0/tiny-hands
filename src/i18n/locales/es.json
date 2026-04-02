@@ -40,19 +40,19 @@
     "items": {
       "bus": {
         "title": "Servicio de Autobús",
-        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+        "description": "modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
       },
       "sports": {
         "title": "Entrenamiento Deportivo",
-        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+        "description": "modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
       },
       "music": {
         "title": "Entrenamiento Musical",
-        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+        "description": "modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
       },
       "teachers": {
         "title": "Mejores Maestros",
-        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+        "description": "modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
       }
     }
   },
@@ -60,7 +60,29 @@
     "subtitle": "Más Sobre Nosotros",
     "title": "Cuidado Especial Para Tus Hijos",
     "description": "Formular ideas innovadoras de preparación web y base instalada. Integrar distintivamente paradigmas de alto rendimiento sin sistemas de próxima generación, difundir servicios electrónicos holísticos a través de experiencia dirigida al cliente.",
-    "button": "Saber Más"
+    "button": "Saber Más",
+    "breadcrumb": "Sobre Nosotros",
+    "pageTitle": "Sobre Knirpse Kindergarten",
+    "intro": "Bienvenido a Knirpse Kindergarten, donde proporcionamos un ambiente nutritivo y estimulante para los primeros años de su hijo. Nuestro equipo dedicado de educadores está comprometido a fomentar el crecimiento, la creatividad y el amor por el aprendizaje en cada niño.",
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Proporcionar educación infantil temprana de alta calidad que nutre al niño completo: intelectual, social, emocional y físicamente. Creemos en crear un ambiente seguro y de apoyo donde los niños puedan explorar, descubrir y desarrollar su potencial único.",
+    "visionTitle": "Nuestra Visión",
+    "visionText": "Ser el jardín de infantes líder que establece el estándar de excelencia en educación infantil temprana, donde cada niño es valorado, respetado y se le da la oportunidad de prosperar y alcanzar su máximo potencial.",
+    "valuesTitle": "Nuestros Valores Fundamentales",
+    "value1": "Aprendizaje Centrado en el Niño: Cada niño es único y aprende a su propio ritmo",
+    "value2": "Seguridad y Protección: Crear un ambiente seguro es nuestra máxima prioridad",
+    "value3": "Asociación Familiar: Trabajar juntos con las familias para los mejores resultados",
+    "value4": "Excelencia Profesional: Mejora continua y altos estándares",
+    "value5": "Comunidad Inclusiva: Celebrando la diversidad y fomentando la pertenencia",
+    "whyChooseTitle": "¿Por Qué Elegir Knirpse Kindergarten?",
+    "feature1Title": "Educadores Calificados",
+    "feature1Text": "Nuestros maestros son profesionales certificados con años de experiencia en educación infantil temprana.",
+    "feature2Title": "Ambiente Seguro",
+    "feature2Text": "Instalaciones de última generación con medidas de seguridad integrales y premisas seguras.",
+    "feature3Title": "Clases Pequeñas",
+    "feature3Text": "Proporciones bajas de maestro a estudiante aseguran atención personalizada para cada niño.",
+    "feature4Title": "Desarrollo Holístico",
+    "feature4Text": "Programas diseñados para nutrir el crecimiento cognitivo, social, emocional y físico."
   },
   "counter": {
     "teachers": "Maestros Calificados",
@@ -156,6 +178,12 @@
     "title": "Conoce Nuestras Actualizaciones Semanales",
     "comments": "Comentarios",
     "readMore": "Leer Más"
+  },
+  "error": {
+    "number": "Error 404",
+    "title": "Página No Encontrada",
+    "description": "Entregar dramáticamente fuentes a nivel empresarial mientras que información interoperable. Integrar únicamente e-tailers 24/7 después de la preparación web B2B.",
+    "button": "Volver al Inicio"
   },
   "contact": {
     "title": "Contáctanos",

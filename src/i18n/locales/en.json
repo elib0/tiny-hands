@@ -60,7 +60,29 @@
     "subtitle": "More About Us",
     "title": "Special Care For Your Children",
     "description": "Formulate innovative web-readiness and installed base ideas. Distinctively integrate high-payoff paradigms without next generation systems disseminate holistic e-services through customer directed expertise.",
-    "button": "Learn More"
+    "button": "Learn More",
+    "breadcrumb": "About Us",
+    "pageTitle": "About Knirpse Kindergarten",
+    "intro": "Welcome to Knirpse Kindergarten, where we provide a nurturing and stimulating environment for your child's early years. Our dedicated team of educators is committed to fostering growth, creativity, and a love for learning in every child.",
+    "missionTitle": "Our Mission",
+    "missionText": "To provide high-quality early childhood education that nurtures the whole child - intellectually, socially, emotionally, and physically. We believe in creating a safe, supportive environment where children can explore, discover, and develop their unique potential.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be the leading kindergarten that sets the standard for excellence in early childhood education, where every child is valued, respected, and given the opportunity to thrive and reach their full potential.",
+    "valuesTitle": "Our Core Values",
+    "value1": "Child-Centered Learning: Every child is unique and learns at their own pace",
+    "value2": "Safety & Security: Creating a safe environment is our top priority",
+    "value3": "Family Partnership: Working together with families for the best outcomes",
+    "value4": "Professional Excellence: Continuous improvement and high standards",
+    "value5": "Inclusive Community: Celebrating diversity and fostering belonging",
+    "whyChooseTitle": "Why Choose Knirpse Kindergarten?",
+    "feature1Title": "Qualified Educators",
+    "feature1Text": "Our teachers are certified professionals with years of experience in early childhood education.",
+    "feature2Title": "Safe Environment",
+    "feature2Text": "State-of-the-art facilities with comprehensive safety measures and secure premises.",
+    "feature3Title": "Small Class Sizes",
+    "feature3Text": "Low teacher-to-student ratios ensure personalized attention for every child.",
+    "feature4Title": "Holistic Development",
+    "feature4Text": "Programs designed to nurture cognitive, social, emotional, and physical growth."
   },
   "counter": {
     "teachers": "Qualified Teachers",
@@ -156,6 +178,12 @@
     "title": "Get Know Our Weekly Update News",
     "comments": "Comments",
     "readMore": "Read More"
+  },
+  "error": {
+    "number": "404 Error",
+    "title": "Page Not Found",
+    "description": "Dramatically deliver enterprise-wide sources whereas interoperable information. Uniquely integrate 24/7 e-tailers after B2B web-readiness.",
+    "button": "Back to Home"
   },
   "contact": {
     "title": "Contact Us",
