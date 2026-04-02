@@ -1,0 +1,203 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "classes": "Clases",
+    "about": "Acerca de",
+    "team": "Equipo",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "bookVisit": "Reservar visita"
+  },
+  "header": {
+    "schedule": "9:30 am - 6:30 pm - Lun - Dom",
+    "phone": "+256 259 21589",
+    "address": "Hilton Street, Nueva York 215 US"
+  },
+  "hero": {
+    "slide1": {
+      "tag1": "Aprender",
+      "tag2": "Jugar",
+      "title": "¡Una vida de <span>Cuidado Infantil</span> comienza con nosotros!",
+      "button": "Reservar visita"
+    },
+    "slide2": {
+      "tag1": "Niños",
+      "tag2": "Jugar",
+      "title": "¡Cuidamos de los <span>Niños</span> comienza con nosotros!",
+      "button": "Reservar visita"
+    },
+    "slide3": {
+      "tag1": "Aprender",
+      "tag2": "Cuidar",
+      "title": "Ayudamos a <span>Crecer</span> a tus Hijos",
+      "button": "Reservar visita"
+    }
+  },
+  "services": {
+    "subtitle": "Servicios que Ofrecemos",
+    "title": "Brindando Buenas Cualidades Para Tus Queridos Niños",
+    "items": {
+      "bus": {
+        "title": "Servicio de Autobús",
+        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+      },
+      "sports": {
+        "title": "Entrenamiento Deportivo",
+        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+      },
+      "music": {
+        "title": "Entrenamiento Musical",
+        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+      },
+      "teachers": {
+        "title": "Mejores Maestros",
+        "description": "Modelos ubicuos en lugar de iniciativas paralelas. Reinventar el éxito sin problemas."
+      }
+    }
+  },
+  "about": {
+    "subtitle": "Más Sobre Nosotros",
+    "title": "Cuidado Especial Para Tus Hijos",
+    "description": "Formular ideas innovadoras de preparación web y base instalada. Integrar distintivamente paradigmas de alto rendimiento sin sistemas de próxima generación, difundir servicios electrónicos holísticos a través de experiencia dirigida al cliente.",
+    "button": "Saber Más"
+  },
+  "counter": {
+    "teachers": "Maestros Calificados",
+    "experience": "Años de Experiencia",
+    "students": "Estudiantes Inscritos",
+    "awards": "Premios Totales"
+  },
+  "classes": {
+    "subtitle": "Clases en Curso",
+    "title": "Toma las Clases y Comienza a Aprender Desde Hoy",
+    "age": "Edad:",
+    "time": "Horario:",
+    "capacity": "Capacidad:",
+    "readMore": "Leer Más",
+    "items": {
+      "language": {
+        "title": "Clase de Idiomas",
+        "description": "Marca interactiva del centro de clientes a través de ideas de valor personalizadas.",
+        "age": "3-5 Años",
+        "time": "8-10 am",
+        "capacity": "30 Niños",
+        "fee": "$45"
+      },
+      "drawing": {
+        "title": "Clase de Dibujo",
+        "description": "Marca interactiva del centro de clientes a través de ideas de valor personalizadas.",
+        "age": "3-5 Años",
+        "time": "8-10 am",
+        "capacity": "30 Niños",
+        "fee": "$45"
+      },
+      "mathematics": {
+        "title": "Clase de Matemáticas",
+        "description": "Marca interactiva del centro de clientes a través de ideas de valor personalizadas.",
+        "age": "3-5 Años",
+        "time": "8-10 am",
+        "capacity": "30 Niños",
+        "fee": "$45"
+      },
+      "practical": {
+        "title": "Clase Práctica",
+        "description": "Marca interactiva del centro de clientes a través de ideas de valor personalizadas.",
+        "age": "3-5 Años",
+        "time": "8-10 am",
+        "capacity": "30 Niños",
+        "fee": "$45"
+      }
+    }
+  },
+  "process": {
+    "items": {
+      "instructor": {
+        "title": "Instructor Experto",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      },
+      "knowledge": {
+        "title": "Conocimiento Total",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      },
+      "children": {
+        "title": "Niños Saludables",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      }
+    }
+  },
+  "appointment": {
+    "subtitle": "Hacer Cita",
+    "title": "Únete a Nuestra Diversión con Niños Lindos",
+    "description": "Formular ideas innovadoras de preparación web y base instalada. Integrar distintivamente paradigmas de alto rendimiento sin sistemas de próxima generación, difundir servicios electrónicos holísticos a través de experiencia dirigida al cliente.",
+    "form": {
+      "guardianName": "Nombre del Tutor",
+      "phone": "Número de Teléfono",
+      "email": "Tu Email",
+      "childName": "Nombre del Niño",
+      "childAge": "Edad del Niño",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    },
+    "button": "Saber Más"
+  },
+  "team": {
+    "subtitle": "Nuestro Personal Experto",
+    "title": "Personal Más Dedicado Para Tu Hijo"
+  },
+  "cta": {
+    "subtitle": "Únete a Nuestra Nueva Sesión",
+    "title": "Llama Para Inscribir a Tu Hijo",
+    "phone": "256 2158 2222",
+    "button": "Saber Más"
+  },
+  "blog": {
+    "subtitle": "Últimas Publicaciones",
+    "title": "Conoce Nuestras Actualizaciones Semanales",
+    "comments": "Comentarios",
+    "readMore": "Leer Más"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "breadcrumb": "Contáctanos",
+    "form": {
+      "title": "Déjanos un Mensaje",
+      "description": "Reinventamos portales completamente probados y escenarios basados en rendimiento. Aprovechamos oportunidades extensas para el futuro.",
+      "name": "Tu Nombre",
+      "namePlaceholder": "Juan Pérez...",
+      "email": "Tu Email",
+      "emailPlaceholder": "info@ejemplo.com",
+      "message": "Tu Mensaje",
+      "messagePlaceholder": "Describe tu opinión",
+      "submit": "Enviar Ahora",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado exitosamente!",
+      "error": "Error al enviar el mensaje. Por favor intenta de nuevo."
+    },
+    "info": {
+      "title": "Nuestra Información",
+      "addressTitle": "Dirección de Oficina:",
+      "phoneTitle": "Llámanos para Ayuda:",
+      "emailTitle": "Información de Correo:",
+      "or": "(o)"
+    }
+  },
+  "footer": {
+    "about": "Eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrice gravida isus commodo viverra.",
+    "detailsInfo": "Información Detallada",
+    "newsFeed": "Noticias",
+    "contactUs": "Contáctanos",
+    "copyright": "Copyright 2024 Tiny Hands Home Daycare. Todos los Derechos Reservados por",
+    "links": {
+      "onlineClass": "Clase en Línea",
+      "appointment": "Cita",
+      "aboutUs": "Sobre Nosotros",
+      "ourTeam": "Nuestro Equipo",
+      "upcomingEvents": "Próximos Eventos"
+    }
+  },
+  "sidebar": {
+    "about": "Eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrice gravida isus commodo viverra.",
+    "contactUs": "Contáctanos"
+  }
+}

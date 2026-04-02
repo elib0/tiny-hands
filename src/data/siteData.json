@@ -1,0 +1,255 @@
+{
+  "contact": {
+    "phone": "+1 708-663-3795",
+    "email": "tinyhandshomedaycare@gmail.com",
+    "address": "3617 s Central ave , Cicero, IL, United States, 60804",
+    "schedule": "Mon - Fri: 9.00am to 5.00pm"
+  },
+  "social": {
+    "facebook": "#",
+    "twitter": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "pinterest": "#",
+    "skype": "#"
+  },
+  "hero": {
+    "slides": [
+      {
+        "id": 1,
+        "background": "/assets/img/bg/hero/1.png",
+        "tag1": "Welcome To Knirpse",
+        "tag2": "Best Kindergarten",
+        "title": "A lifetime of <span class=\"focus text-theme\">ChildCare</span> start with us!",
+        "buttonText": "Book a visit",
+        "buttonLink": "/contact"
+      },
+      {
+        "id": 2,
+        "background": "/assets/img/bg/hero/2.png",
+        "tag1": "Welcome To Knirpse",
+        "tag2": "Best Kindergarten",
+        "title": "A lifetime of <span class=\"focus text-theme\">ChildCare</span> start with us!",
+        "buttonText": "Book a visit",
+        "buttonLink": "/contact"
+      },
+      {
+        "id": 3,
+        "background": "/assets/img/bg/hero/3.png",
+        "tag1": "Welcome To Knirpse",
+        "tag2": "Best Kindergarten",
+        "title": "A lifetime of <span class=\"focus text-theme\">ChildCare</span> start with us!",
+        "buttonText": "Book a visit",
+        "buttonLink": "/contact"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "icon": "/assets/img/icon/service-1.png",
+      "color": "#ff6b6b",
+      "titleKey": "services.items.bus.title",
+      "descriptionKey": "services.items.bus.description",
+      "link": "/service-details"
+    },
+    {
+      "id": 2,
+      "icon": "/assets/img/icon/service-2.png",
+      "color": "#4ecdc4",
+      "titleKey": "services.items.sports.title",
+      "descriptionKey": "services.items.sports.description",
+      "link": "/service-details"
+    },
+    {
+      "id": 3,
+      "icon": "/assets/img/icon/service-3.png",
+      "color": "#95e1d3",
+      "titleKey": "services.items.music.title",
+      "descriptionKey": "services.items.music.description",
+      "link": "/service-details"
+    },
+    {
+      "id": 4,
+      "icon": "/assets/img/icon/service-4.png",
+      "color": "#f38181",
+      "titleKey": "services.items.teachers.title",
+      "descriptionKey": "services.items.teachers.description",
+      "link": "/service-details"
+    }
+  ],
+  "about": {
+    "image": "/assets/img/bg/about-final.png",
+    "subtitleKey": "about.subtitle",
+    "titleKey": "about.title",
+    "descriptionKey": "about.description",
+    "buttonTextKey": "about.button",
+    "buttonLink": "/about"
+  },
+  "counters": [
+    {
+      "id": 1,
+      "icon": "fa-light fa-chalkboard-user",
+      "number": 45,
+      "textKey": "counter.teachers"
+    },
+    {
+      "id": 2,
+      "icon": "fa-light fa-award",
+      "number": 20,
+      "textKey": "counter.experience"
+    },
+    {
+      "id": 3,
+      "icon": "fa-light fa-user-group-crown",
+      "number": 565,
+      "textKey": "counter.students"
+    },
+    {
+      "id": 4,
+      "icon": "fal fa-trophy-alt",
+      "number": 15,
+      "textKey": "counter.awards"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "image": "/assets/img/class/class-1.jpg",
+      "titleKey": "classes.items.language.title",
+      "descriptionKey": "classes.items.language.description",
+      "feeKey": "classes.items.language.fee",
+      "ageKey": "classes.items.language.age",
+      "timeKey": "classes.items.language.time",
+      "capacityKey": "classes.items.language.capacity",
+      "link": "/class-details"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/class/class-2.jpg",
+      "titleKey": "classes.items.drawing.title",
+      "descriptionKey": "classes.items.drawing.description",
+      "feeKey": "classes.items.drawing.fee",
+      "ageKey": "classes.items.drawing.age",
+      "timeKey": "classes.items.drawing.time",
+      "capacityKey": "classes.items.drawing.capacity",
+      "link": "/class-details"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/class/class-3.jpg",
+      "titleKey": "classes.items.mathematics.title",
+      "descriptionKey": "classes.items.mathematics.description",
+      "feeKey": "classes.items.mathematics.fee",
+      "ageKey": "classes.items.mathematics.age",
+      "timeKey": "classes.items.mathematics.time",
+      "capacityKey": "classes.items.mathematics.capacity",
+      "link": "/class-details"
+    }
+  ],
+  "process": [
+    {
+      "id": 1,
+      "number": "01",
+      "icon": "/assets/img/icon/process-1.png",
+      "titleKey": "process.items.instructor.title",
+      "descriptionKey": "process.items.instructor.description",
+      "showDirection": true
+    },
+    {
+      "id": 2,
+      "number": "02",
+      "icon": "/assets/img/icon/process-2.png",
+      "titleKey": "process.items.knowledge.title",
+      "descriptionKey": "process.items.knowledge.description",
+      "showDirection": true
+    },
+    {
+      "id": 3,
+      "number": "03",
+      "icon": "/assets/img/icon/process-3.png",
+      "titleKey": "process.items.children.title",
+      "descriptionKey": "process.items.children.description",
+      "showDirection": false
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "image": "/assets/img/team/t-1.jpg",
+      "name": "Bableo Dablo",
+      "designation": "Kids Specialist",
+      "description": "Assertively repurpose orthogonal architectures through just in time manufactured products.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "linkedin": "#"
+      },
+      "link": "/team-details"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/team/t-2.jpg",
+      "name": "Rose Marry",
+      "designation": "Drawing Teacher",
+      "description": "Assertively repurpose orthogonal architectures through just in time manufactured products.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "linkedin": "#"
+      },
+      "link": "/team-details"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/team/t-3.jpg",
+      "name": "Jabian Joe",
+      "designation": "Kids Teacher",
+      "description": "Assertively repurpose orthogonal architectures through just in time manufactured products.",
+      "social": {
+        "facebook": "#",
+        "twitter": "#",
+        "instagram": "#",
+        "linkedin": "#"
+      },
+      "link": "/team-details"
+    }
+  ],
+  "cta": {
+    "subtitleKey": "cta.subtitle",
+    "titleKey": "cta.title",
+    "buttonTextKey": "cta.button",
+    "buttonLink": "/about"
+  },
+  "blog": [
+    {
+      "id": 1,
+      "image": "/assets/img/blog/blog-1.jpg",
+      "title": "Education Always Best For Parent Develope",
+      "date": "10 October, 2024",
+      "comments": "02",
+      "link": "/blog-details"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/blog/blog-2.jpg",
+      "title": "A Happy Learning Process for Your Child",
+      "date": "12 November, 2024",
+      "comments": "05",
+      "link": "/blog-details"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/blog/blog-3.jpg",
+      "title": "Best Drawing Practice in Child Age",
+      "date": "01 December, 2024",
+      "comments": "10",
+      "link": "/blog-details"
+    }
+  ],
+  "contactPage": {
+    "mapUrl": "https://maps.app.goo.gl/1ir8vnivyJFCRH5m7"
+  }
+}

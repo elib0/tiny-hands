@@ -1,0 +1,203 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "classes": "Classes",
+    "about": "About",
+    "team": "Team",
+    "blog": "Blog",
+    "contact": "Contact",
+    "bookVisit": "Book a visit"
+  },
+  "header": {
+    "schedule": "9:30 am - 6:30 pm - Mon - Sun",
+    "phone": "+256 259 21589",
+    "address": "Hilton Street, New York 215 US"
+  },
+  "hero": {
+    "slide1": {
+      "tag1": "Learn",
+      "tag2": "Play",
+      "title": "A lifetime of <span>ChildCare</span> start with us!",
+      "button": "Book a visit"
+    },
+    "slide2": {
+      "tag1": "Child",
+      "tag2": "Play",
+      "title": "We Care of <span>Children</span> start with us!",
+      "button": "Book a visit"
+    },
+    "slide3": {
+      "tag1": "Learn",
+      "tag2": "Care",
+      "title": "We Help to <span>Grow Up</span> Your Children",
+      "button": "Book a visit"
+    }
+  },
+  "services": {
+    "subtitle": "Service We Provide",
+    "title": "Providing Good Qualities For Your Loving Kids",
+    "items": {
+      "bus": {
+        "title": "Bus Service",
+        "description": "ubiquitous models rather than parallel initiatives. Seamlessly reinvent success."
+      },
+      "sports": {
+        "title": "Sports Training",
+        "description": "ubiquitous models rather than parallel initiatives. Seamlessly reinvent success."
+      },
+      "music": {
+        "title": "Music Training",
+        "description": "ubiquitous models rather than parallel initiatives. Seamlessly reinvent success."
+      },
+      "teachers": {
+        "title": "Best Teachers",
+        "description": "ubiquitous models rather than parallel initiatives. Seamlessly reinvent success."
+      }
+    }
+  },
+  "about": {
+    "subtitle": "More About Us",
+    "title": "Special Care For Your Children",
+    "description": "Formulate innovative web-readiness and installed base ideas. Distinctively integrate high-payoff paradigms without next generation systems disseminate holistic e-services through customer directed expertise.",
+    "button": "Learn More"
+  },
+  "counter": {
+    "teachers": "Qualified Teachers",
+    "experience": "Years Of Experience",
+    "students": "Students Enrolled",
+    "awards": "Total Award"
+  },
+  "classes": {
+    "subtitle": "On Going Classes",
+    "title": "Take The Classes & Start Learning From Today",
+    "age": "Age:",
+    "time": "Time:",
+    "capacity": "Capacity:",
+    "readMore": "Read More",
+    "items": {
+      "language": {
+        "title": "Language Class",
+        "description": "Interactively brand client center through is customized value good ideas.",
+        "age": "3-5 Years",
+        "time": "8-10 am",
+        "capacity": "30 Kids",
+        "fee": "$45"
+      },
+      "drawing": {
+        "title": "Drawing Class",
+        "description": "Interactively brand client center through is customized value good ideas.",
+        "age": "3-5 Years",
+        "time": "8-10 am",
+        "capacity": "30 Kids",
+        "fee": "$45"
+      },
+      "mathematics": {
+        "title": "Mathematics Class",
+        "description": "Interactively brand client center through is customized value good ideas.",
+        "age": "3-5 Years",
+        "time": "8-10 am",
+        "capacity": "30 Kids",
+        "fee": "$45"
+      },
+      "practical": {
+        "title": "Practical Class",
+        "description": "Interactively brand client center through is customized value good ideas.",
+        "age": "3-5 Years",
+        "time": "8-10 am",
+        "capacity": "30 Kids",
+        "fee": "$45"
+      }
+    }
+  },
+  "process": {
+    "items": {
+      "instructor": {
+        "title": "Expert Instructor",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      },
+      "knowledge": {
+        "title": "Known Everything",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      },
+      "children": {
+        "title": "Well Children",
+        "description": "ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt"
+      }
+    }
+  },
+  "appointment": {
+    "subtitle": "Make Appointment",
+    "title": "Join Our Fun with Cutie Kids",
+    "description": "Formulate innovative web-readiness and installed base ideas. Distinctively integrate high-payoff paradigms without next generation systems disseminate holistic e-services through customer directed expertise.",
+    "form": {
+      "guardianName": "Gurdian Name",
+      "phone": "Phone No",
+      "email": "Your Email",
+      "childName": "Child Name",
+      "childAge": "Age of Child",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "button": "Learn More"
+  },
+  "team": {
+    "subtitle": "Our Expert Staff",
+    "title": "Most Dedicated Staff For Your Child"
+  },
+  "cta": {
+    "subtitle": "Join Our New Session",
+    "title": "Call To Enroll Your Child",
+    "phone": "256 2158 2222",
+    "button": "Learn More"
+  },
+  "blog": {
+    "subtitle": "Latest News Posts",
+    "title": "Get Know Our Weekly Update News",
+    "comments": "Comments",
+    "readMore": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "breadcrumb": "Contact Us",
+    "form": {
+      "title": "Leave a Message",
+      "description": "Intrinsicly reinvent fully tested portals and performance based scenarios. Phosfluorescently exploit extensive opportunities for future.",
+      "name": "Your Name",
+      "namePlaceholder": "David Smith...",
+      "email": "Your Email",
+      "emailPlaceholder": "info@example.com",
+      "message": "Your Message",
+      "messagePlaceholder": "Describe Your Opinion",
+      "submit": "Send Now",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "info": {
+      "title": "Our Information",
+      "addressTitle": "Office Address:",
+      "phoneTitle": "Call Us For Help:",
+      "emailTitle": "Mail info:",
+      "or": "(or)"
+    }
+  },
+  "footer": {
+    "about": "Eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrice gravida isus commodo viverra.",
+    "detailsInfo": "Details Info",
+    "newsFeed": "News Feed",
+    "contactUs": "Contact Us",
+    "copyright": "Copyright 2024 Tiny Hands Home Daycare. All Rights Reserved by",
+    "links": {
+      "onlineClass": "Online Class",
+      "appointment": "Appointment",
+      "aboutUs": "About Us",
+      "ourTeam": "Our Team",
+      "upcomingEvents": "Upcoming Events"
+    }
+  },
+  "sidebar": {
+    "about": "Eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrice gravida isus commodo viverra.",
+    "contactUs": "Contact Us"
+  }
+}
